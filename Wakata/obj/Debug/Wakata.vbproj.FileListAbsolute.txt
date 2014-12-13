@@ -1,0 +1,12 @@
+c:\users\victor\documents\visual studio 2013\Projects\Wakata\Wakata\bin\Debug\Wakata.exe.config
+c:\users\victor\documents\visual studio 2013\Projects\Wakata\Wakata\bin\Debug\Wakata.exe
+c:\users\victor\documents\visual studio 2013\Projects\Wakata\Wakata\bin\Debug\Wakata.pdb
+c:\users\victor\documents\visual studio 2013\Projects\Wakata\Wakata\bin\Debug\Wakata.xml
+c:\users\victor\documents\visual studio 2013\Projects\Wakata\Wakata\obj\Debug\Wakata.Form1.resources
+c:\users\victor\documents\visual studio 2013\Projects\Wakata\Wakata\obj\Debug\Wakata.Resources.resources
+c:\users\victor\documents\visual studio 2013\Projects\Wakata\Wakata\obj\Debug\Wakata.frmcliente.resources
+c:\users\victor\documents\visual studio 2013\Projects\Wakata\Wakata\obj\Debug\Wakata.vbproj.GenerateResource.Cache
+c:\users\victor\documents\visual studio 2013\Projects\Wakata\Wakata\obj\Debug\Wakata.exe
+c:\users\victor\documents\visual studio 2013\Projects\Wakata\Wakata\obj\Debug\Wakata.xml
+c:\users\victor\documents\visual studio 2013\Projects\Wakata\Wakata\obj\Debug\Wakata.pdb
+c:\users\victor\documents\visual studio 2013\Projects\Wakata\Wakata\obj\Debug\Wakata.frmcategoria.resources
